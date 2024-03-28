@@ -15,3 +15,8 @@
 
 1. [./guidelines](./guidelines) の中にカテゴリ別でディレクトリを作成し、エントリーファイルとして「README.md」を作成し、タイトルと概要を書きます。
 2. セクション毎にタイトルと一致した名称で.mdファイルを作成します。
+
+## コンテンツ
+
+## [▶️ 一般コーディングガイドライン](./guidelines//General/README.md)
+## [▶️ JavaScriptコーディングガイドライン](./guidelines/Node//README.md)
