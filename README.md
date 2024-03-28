@@ -18,5 +18,5 @@
 
 ## コンテンツ
 
-## [▶️ 一般コーディングガイドライン](./guidelines//General/README.md)
-## [▶️ JavaScriptコーディングガイドライン](./guidelines/Node//README.md)
+## [▶︎ 一般コーディングガイドライン](./guidelines//General/README.md)
+## [▶︎ JavaScriptコーディングガイドライン](./guidelines/Node//README.md)
