@@ -1,0 +1,19 @@
+{
+  "name": "@madakaheri/coding-guidelines",
+  "version": "0.0.0",
+  "description": "Coding Guidelines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/madakaheri/coding-guidelines.git"
+  },
+  "author": "Madaka Heri <madakaheri@icloud.com> (https://twitter.com/MadakaHeri)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madakaheri/coding-guidelines/issues"
+  },
+  "homepage": "https://github.com/madakaheri/coding-guidelines#readme"
+}
